@@ -1,0 +1,11 @@
+h1{font-family: 'Marko One', serif; font-size: 1.5em; color : #993399; text-shadow:.2em .2em #D3D3D3; font-weight: bold;}
+body{font-family : "Verdana";}
+span.label{color: #808080;}
+span.price{font-family: "Georgia"; font-size: 1em;color: #808080;font-style: italic;}
+h2{color : #CC6600;letter-spacing: 8px; text-align: center;text-transform: uppercase;}
+dt{color:#A0522D;font-weight: bold;}
+dt>strong{color:#FF6347;font-style: italic;}
+p.warning{color:#FF0000;}
+#div1{text-align: center;}
+ul{list-style-type: none;}
+p{font-style: italic;}
