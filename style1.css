@@ -5,7 +5,12 @@ span.price{font-family: "Georgia"; font-size: 1em;color: #808080;font-style: ita
 h2{color : #CC6600;letter-spacing: 8px; text-align: center;text-transform: uppercase;}
 dt{color:#A0522D;font-weight: bold;}
 dt>strong{color:#FF6347;font-style: italic;}
+dd{color : grey;}
 p.warning{color:#FF0000;}
 #div1{text-align: center;}
 ul{list-style-type: none;}
-p{font-style: italic;}
+p{font-family: "Verdana";color:grey;font-size: 0.875rem;}
+li.c1{list-style: lower-roman;}
+li.c2{list-style: circle;}
+li.c3{list-style: disc;list-style-position: inside;}
+li.c4{list-style-position: outside;font-size: 2rem;list-style-image:url(images/bull.PNG);}
